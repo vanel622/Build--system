@@ -1,0 +1,29 @@
+<section class="CLogin">
+ 	<div class="container" style="margin-top: 15%;">
+      	<h2 class="text-center text-white">Inicio de Sesión</h2>
+		<form [formGroup]="formularioDeSesion" (ngSubmit)="validarSesion()">
+		  	<div class="form-row">
+		    	<div class="col-12 offset-md-4 col-md-4 mb-2">
+		      		<label class="text-white" for="email">Usuario</label>
+		      		<input type="email" class="form-control" id="email" formControlName="email" pattern="[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?">
+        			<div *ngIf="formularioDeSesion.controls.email.errors && formularioDeSesion.controls.email.touched">
+        				<span class="CNotificacion">Formato de email inválido</span>
+        			</div>
+		    	</div>
+		    	<div class="col-12 offset-md-4 col-md-4 mb-2">
+		      		<label class="text-white" for="clave">Clave</label>
+		      		<input type="password" class="form-control" id="clave" formControlName="clave">
+        			<div *ngIf="formularioDeSesion.controls.clave.errors && formularioDeSesion.controls.clave.touched">
+        				<span class="CNotificacion">Ingrese una clave válida</span>
+        			</div>
+		    	</div>
+		  	</div>
+		  	<div class="form-row">
+		    	<div class="col-12 offset-md-4 col-md-4 mt-3">
+			  		<button class="btn btn-primary btn-block mt-1" type="submit" [disabled]="!formularioDeSesion.valid">Ingresar</button>
+		    	</div>
+				<div class="col-12 offset-md-4 col-md-4 CMensaje h5">{{mensaje}}</div>
+		  	</div>
+		</form>
+	</div>
+</section>

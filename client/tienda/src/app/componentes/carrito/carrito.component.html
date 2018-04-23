@@ -1,0 +1,59 @@
+<section class="CBody">
+ 	<div class="pl-3 pb-3 pr-3">
+	
+	<!-- Inserta el Header en la pagina -->
+	<app-header></app-header>
+ 		
+ 		<div class="card bg-white mt-3">
+  		
+			<!-- Cabecera del Panel -->
+	  		<div class="card-header bg-white">
+	  			<div class="row">
+	  				<div class="col-12 text-left pt-4">
+	  					<h1 class="font-weight-bold mt-2 ">Carrito de Compras</h1>
+	  				</div>
+	  			</div>
+	 		</div><!-- Header body -->
+
+				<!-- Contenido del Panel -->
+	  		<div class="card-body divider">
+				<div class="row">
+					<div class="col-12 p-2">
+		  			<div class="card">
+		  				<div class="row p-2">
+		  					<div class="col-6">
+								<ul class="list-group">
+									<li class="list-group-item list-group-item-action"
+									*ngFor="let item of listaCarrito">
+										<div class="row">
+											<div class="col-4 col-md-3">
+												<img class="card-img-top w-100 rounded" style="height: 5rem;"
+												[src]="item.imagen" [alt]="item.nombre">
+											</div>
+											<div class="col-8 col-md-9">
+												<h5><b>{{ item.nombre }}</b></h5>
+												<small>
+													<b>Unidades: </b>{{ item.cantidad }}<br>			
+													<b>SubTotal: </b>${{this.carritoService.calcularSubtotal(item.precio, item.cantidad) }}
+												</small>
+											</div>
+										</div>
+									</li>
+								</ul>
+     							<div class="text-center mt-5 text-info" *ngIf="!this.carritoService.contadorItems()">
+     								<p>Aún no ha añadido productos en el carrito</p>
+     							</div>
+	  						</div>
+		  					<div class="col-6 text-center">
+		  						<h2 class="card-text mt-3"><b>Total: </b>${{ this.calcularTotal() }}</h2>
+		  						<a class="btn btn-sm btn-secondary mt-1" [routerLink]="['/productos']">Cancelar</a>
+		  						<a class="btn btn-sm btn-primary mt-1" (click)="pagarCarrito()">Pagar</a>
+		  					</div>
+		  				</div>
+					</div>
+					</div>
+				</div>
+	  		</div><!-- Card body -->
+		</div>
+	</div>
+</section>

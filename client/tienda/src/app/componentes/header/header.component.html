@@ -1,0 +1,23 @@
+<div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <h3 class="navbar-brand text-muted" href="#">La Bodega</h3>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item" routerLinkActive="active">
+        	<a class="nav-link" [routerLink]="['/productos']">
+            <i class="material-icons">apps</i></a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['/carrito']">
+            <i class="material-icons">shopping_cart</i>
+              <span *ngIf="this.carritoService.contadorItems()>0" class="CIconoContador">{{this.carritoService.contadorItems()}}</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" (click)="cerrarSesion()">
+            <i class="material-icons">exit_to_app</i></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>

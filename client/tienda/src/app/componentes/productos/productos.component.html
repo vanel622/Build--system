@@ -1,0 +1,55 @@
+<section class="CBody">
+ 	<div class="pl-3 pb-3 pr-3">
+	
+	<!-- Inserta el Header en la pagina -->
+	<app-header></app-header>
+ 		
+ 		<div class="card bg-white mt-3">
+  		
+			<!-- Cabecera del Panel -->
+	  		<div class="card-header bg-white">
+	  			<div class="row">
+	  				<div class="col-12 col-md-9 text-left pt-4">
+	  					<h1 class="font-weight-bold mt-2 ">Catálogo de Productos</h1>
+	  				</div>
+	  				<div class="col-12 col-md-3 justify-content-end">
+					    <form class="form my-2 my-md-4" 
+					    [formGroup]="formFiltrar" (onSubmit)="preventDefault(e)">
+					    	<h5>¿Qué estás buscando?</h5>
+					    	<input type="text" id="busqueda" class="form-control mr-sm-2" placeholder="Buscar Producto" 
+					    	(input)="filtrarCatalogo(filtro.value)" #filtro formControlName="busqueda">
+					    </form>
+	  				</div>
+	  			</div>
+	 		</div><!-- Header body -->
+
+				<!-- Contenido del Panel -->
+	  		<div class="card-body divider">
+				<div class="row">
+					<div class="col-6 col-md-3 p-2" *ngFor="let item of catalogo">
+		  			<div class="card p-1">
+	  					<img class="card-img-top CItem rounded" [src]="item.imagen" [alt]="item.nombre">
+	  					<div class="card-body">
+	   	 					<h4 class="card-title">{{ item.nombre }}</h4>
+	    					<p><small class="card-text"><b>Precio:</b> ${{ item.precio }}<br>
+	    					<b>Unidades Disponibles: </b> {{item.disponibilidad ? item.disponibilidad : 'Agotado'}}</small></p>
+	    					<div class="row">
+	    					  <div class="col-5">
+	                    		<button type="button" class="btn btn-sm btn-primary mt-1" 
+	                    		(click)="verMas(item)">Ver Más</button>
+ 	                    	  </div>
+	    					  <div class="col-7 d-inline-flex">
+	                    		<button type="button" class="col-6 btn btn-sm btn-warning mr-1" 
+	                    		[disabled]="(item.disponibilidad<=0)" (click)="aniadirProducto(item.id,stock.value)">Añadir</button>
+                				<input type="number" id="stock" class="col-6 form-control" min="0"
+                				[max]="item.disponibilidad" [value]="1" [disabled]="(item.disponibilidad<=0)" #stock>
+	                    	  </div>	    						
+	    					</div>
+	                    </div>
+					</div>
+					</div>
+				</div>
+	  		</div><!-- Card body -->
+		</div>
+	</div>
+</section>

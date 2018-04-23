@@ -1,0 +1,44 @@
+<section class="CBody">
+ 	<div class="pl-3 pb-3 pr-3">
+	
+	<!-- Inserta el Header en la pagina -->
+	<app-header></app-header>
+ 		
+ 		<div class="card bg-white mt-3">
+  		
+			<!-- Cabecera del Panel -->
+	  		<div class="card-header bg-white">
+	  			<div class="row">
+	  				<div class="col-12 text-left pt-4">
+	  					<h1 class="font-weight-bold mt-2 ">{{ informacionProducto.nombre }}</h1>
+	  				</div>
+	  			</div>
+	 		</div><!-- Header body -->
+
+				<!-- Contenido del Panel -->
+	  		<div class="card-body divider">
+				<div class="row">
+					<div class="col-12 p-2">
+		  			<div class="card">
+		  				<div class="row p-2">
+		  					<div class="col-6">
+	  							<img class="card-img-top w-100 rounded" style="height: 26rem;" 
+	  							[src]="informacionProducto.imagen" [alt]="informacionProducto.nombre">
+	  						</div>
+		  					<div class="col-6">
+		  						<h3 class="card-text mt-3"><b>Precio: </b>${{ informacionProducto.precio }}</h3>
+	    						<p class="card-text"><b>Unidades Disponibles: </b>
+	    						{{informacionProducto.disponibilidad ? informacionProducto.disponibilidad : 'Agotado'}}</p>
+		  						<p class="card-text"><b>Descripción: </b> ${{ informacionProducto.descripcion }}</p>
+		  					</div>
+		  					<div class="col-12 text-center mt-4">
+		  						<a class="btn btn-sm btn-secondary mt-1" [routerLink]="['/productos']">Atras</a>
+		  					</div>
+		  				</div>
+					</div>
+					</div>
+				</div>
+	  		</div><!-- Card body -->
+		</div>
+	</div>
+</section>

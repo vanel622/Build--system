@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"catalogoFiltrado\tproperty"
+			],
+			[
+				"ty",
+				"typeof\tkeyword"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"text-w",
+				"text-warning \tBootstrap 4 Class"
+			],
+			[
+				"fon",
+				"font-weight-bold \tBootstrap 4 Class"
+			],
+			[
+				"ge",
+				"getUsuarios\tmethod"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"u",
+				"usuarioAPP\tproperty"
+			],
+			[
+				"i",
+				"iJson\tlet"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"prod",
+				"ProductosService\talias"
+			],
+			[
+				"th",
+				"this\tkeyword"
+			],
+			[
+				"pr",
+				"productosService\tproperty"
+			],
+			[
+				"te",
+				"text-warning \tBootstrap 4 Class"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"public\tkeyword"
+			],
+			[
+				"ju",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"d-fl",
+				"d-inline-flex \tBootstrap 4 Class"
+			],
+			[
+				"inl",
+				"d-inline \tBootstrap 4 Class"
+			],
+			[
+				"mx",
+				"mx-1 \tBootstrap 4 Class"
+			],
+			[
+				"im",
+				"img-thumbnail \tBootstrap 4 Class"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"lo",
+				"loggedIn\tproperty"
+			],
+			[
+				"l",
+				"loggedIn\tproperty"
+			],
+			[
+				"ip",
+				"import\tkeyword"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"expres",
+				"express-jwt"
+			],
+			[
+				"Ro",
+				"Router\talias"
+			],
+			[
+				"co",
+				"console\tvar"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"St",
+				"String\tinterface"
+			],
+			[
+				"Re",
+				"RequestOptions\talias"
+			],
+			[
+				"err",
+				"errMsg\tlet"
+			],
+			[
+				"st",
+				"statusText\tproperty"
+			],
+			[
+				"er",
+				"error\tparameter"
+			],
+			[
+				"ins",
+				"instanceof\tkeyword"
+			],
+			[
+				"ne",
+				"new\tkeyword"
+			],
+			[
+				"bol",
+				"font-weight-bold \tBootstrap 4 Class"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"bg-i",
+				"bg-inverse \tBootstrap 4 Class"
+			],
+			[
+				"mt",
+				"mt-5 \tBootstrap 4 Class"
+			],
+			[
+				"ali",
+				"align-middle \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-block \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"bot",
+				"margin-bottom"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"data",
+				"dataPath"
+			],
+			[
+				"da",
+				"dataType"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"al",
+				"alumnos"
+			],
+			[
+				"cone",
+				"ConectorBD"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"perso",
+				"personas"
+			],
+			[
+				"nomb",
+				"nombreID"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mos",
+				"mostrarClientes"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d-",
+				"d-md-block"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"b",
+				"button\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/carrito",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/login",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/servicios",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/environments"
+	],
+	"file_history":
+	[
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/carrito/carrito.component.ts",
+		"/C/Proyectos Angular/Otros/Proyecto-Final-Programador-WEB-master/Proyecto-Final-Programador-WEB-master/tienda/src/app/Producto.ts",
+		"/C/Proyectos Angular/Otros/TiendaOnlineAngularVersion-master/TiendaOnlineAngularVersion-master/src/app/tienda-data.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/carrito/carrito.component.ts",
+		"/C/Proyectos Angular/Otros/TiendaOnlineAngularVersion-master/TiendaOnlineAngularVersion-master/src/app/catalogo/catalogo.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/servicios/productos.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/tienda/tienda.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/tienda.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/carrito.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/login/login.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/servicios/auth.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos-detalle/productos-detalle.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/barra-superior/barra-superior.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/header/header.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/auth.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/login/login.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.144/inventario-detalle.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.025/inventario.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.398/inventario.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.797/inventario.validators.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/servicios/carrito.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/login/login.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/styles.css",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.028/inventario-master/src/app/login/login.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master (1)/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/login/login.component.html",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.140/inventario-master/src/app/login/login.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.935/inventario-master/src/app/login/login.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/index.js",
+		"/C/xampp/htdocs/ProyectosWEB/SitioWeb/css/estilo.css",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/routes.js",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/queries.js",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.091/auth.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.919/inventario.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/modelos/usuarios.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.317/inventario.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.263/inventario.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/carrito/carrito.component.html",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.777/inventario.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.694/inventario.service.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/header/header.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/barra-superior/barra-superior.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/styles.css",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/barra-superior/barra-superior.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/carrito/carrito.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/carrito/carrito.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/carrito.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/tienda.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/tienda/tienda.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos-detalle/productos-detalle.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/tienda/tienda.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/modelos/carrito.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/models/ProductoCarrito.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/tienda/detalle-producto/detalle-producto.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.540/inventario.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.696/inventario-detalle.component.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/tienda/detalle-producto/detalle-producto.component.html",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.742/inventario-lista.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.469/inventario-lista.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.203/inventario-detalle.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.965/inventario.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa1.203/inventario-detalle.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.062/inventario-master/src/app/inventario/inventario-lista.component.html",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.188/inventario-master/src/app/inventario/inventario-detalle.component.html",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/services/user.service.ts",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/backend/models/user.js",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/backend/api/user_api.js",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/components/home/home.component.ts",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/backend/server.js",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/components/about/about.component.ts",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/app.component.ts",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/app.module.ts",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/shared/index.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.753/user.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.479/angular2-express-node-mysql-seed-project-master/src/app/components/home/home.component.ts",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/src/app/components/home/home.component.html",
+		"/C/Proyectos_NodeJS/angular2-express-node-mysql-seed-project-master/tslint.json",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.336/angular2-express-node-mysql-seed-project-master/src/app/components/about/about.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/connection.js",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.845/inventario.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/login/login.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.520/user.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.160/inventario.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.085/app.module.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.328/inventario-master/src/app/login/auth.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.355/inventario-master/src/app/login/login.component.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DIa0.446/app.routes.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/auth.service.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/components/login/login.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/app.component.css",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/app.component.html",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/app.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/footer/footer.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/app.module.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/app.module.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/app.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/app.routes.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/app-routing.module.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/modelos/productos.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/models/Usuario.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/models/Producto.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.907/inventario-master/src/app/login/login.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/servicios/autentificacion.guard.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/servicios/autentificacion.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.284/inventario-master/src/app/login/auth.service.ts",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.721/inventario-master/src/app/login/auth.guard.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/login.js",
+		"/C/Users/SERGIO/AppData/Local/Temp/Rar$DRa0.009/inventario-master/src/app/app.module.ts",
+		"/C/Proyectos_NodeJS/version_nodejs_agenda/app.js",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/allow.js",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/tienda.service.spec.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/carrito.service.spec.ts",
+		"/C/Proyectos Angular/Otros/Tienda_Angular2_ReactJS-master/Tienda_Angular2_ReactJS-master/TiendaAngular2/src/app/services/auth.service.spec.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/package.json",
+		"/C/Proyectos_NodeJS/tienda/version_angular/server/package11111111111111111111.json",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos-lista.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos-detalle.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos-detalle.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos-lista.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/productos-lista/productos-lista.component.ts",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/lista/lista.component.html",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/componentes/productos/lista/lista.component.ts",
+		"/C/Proyecto_Tienda/Evaluacion/version_angular/tienda/src/app/componentes/main/main.component.html",
+		"/C/Proyecto_Tienda/Evaluacion/version_angular/tienda/src/styles.css",
+		"/C/Proyectos_NodeJS/tienda/version_angular/client/tienda/src/app/app.component.ts",
+		"/C/Proyecto_Tienda/Evaluacion/version_angular/tienda/src/app/app.component.ts",
+		"/C/Proyecto_Tienda/Evaluacion/version_angular/tienda/src/app/app.component.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"listaProductos",
+			"get",
+			"getp",
+			"veri",
+			"{\n",
+			"sessio",
+			"seti",
+			"ite",
+			"sub",
+			"}\t\t\t\t",
+			"hei",
+			"lista",
+			"obtner(",
+			"htt",
+			"foo",
+			"Usuario",
+			"usuario",
+			"nuevoUsuario",
+			"Evento",
+			"evento",
+			"Evento",
+			"eve",
+			";",
+			"Eventos",
+			"rou",
+			"path",
+			"http",
+			"MongoClient",
+			"conn",
+			"demo",
+			"back",
+			")",
+			"\tfunction obtenerEventos(req, res) {\n",
+			"usuario",
+			"uti",
+			"che",
+			"tit",
+			"json",
+			"php",
+			".star",
+			"star",
+			"\n    ",
+			"require_once",
+			"']);",
+			"\n\t",
+			"conex",
+			"10",
+			"11",
+			"public",
+			"sqlDelete",
+			"{\n",
+			"alert",
+			"data",
+			"form",
+			"respuesta",
+			";\n",
+			"';*/\n",
+			"app",
+			"alert",
+			"{\n",
+			"php",
+			"response",
+			"sqlAgregar",
+			"consulta",
+			"cadena",
+			"identificador",
+			"img",
+			"btn-reinicio",
+			"ciu",
+			"tipo",
+			"vide",
+			"id=",
+			"\trequire('conexion.php');\n",
+			"men&",
+			"menú",
+			"menu",
+			"ú",
+			"í",
+			"ó",
+			"á",
+			"é",
+			"á",
+			"ó",
+			"ú",
+			"í",
+			"é",
+			"á",
+			"ó",
+			"ñ",
+			"ú",
+			"ó",
+			"í",
+			"á",
+			"é",
+			"ó",
+			"órequire_once('process_encodeHTML.php');",
+			"í",
+			"á",
+			"ó",
+			"á",
+			"ó",
+			"í",
+			"ó",
+			"á",
+			"ó",
+			"ñ",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"ñ",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"md-",
+			"\"&",
+			"'",
+			"com",
+			"ó",
+			"í",
+			"é",
+			"á"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"catalogo",
+			"Evento",
+			"evento",
+			"Usuario",
+			"usuario",
+			"Usuario",
+			"evento",
+			"Evento",
+			"private",
+			"respuestaJSON",
+			"respuesta",
+			"sqlInsert",
+			"sqlConsultar",
+			"sqlAgregar",
+			"this",
+			"a",
+			"&ntilde;",
+			"&oacute;",
+			"&iacute;",
+			"&aacute;",
+			"&eacute;",
+			"a",
+			"o",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"\"\\&",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "AngularTiendaWeb.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

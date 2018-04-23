@@ -1,0 +1,12 @@
+********************** Angular 2 *************************
+1.- Instalar Node.js
+2.- Verificar si esta corriendo NodeJS (Respuesta: v8.9.4)
+	node -v
+3.- Verificar si esta corriendo npm (Respuesta: v5.6.0)
+	npm -v
+4.- Instalar Angular-CLI
+	npm i -g angular-cli (Modo Global)
+5.- Crear un nuevo proyecto de Angular
+	ng new tienda (Dentro de la carpeta contenedora)
+6.- Correr Servidor
+	ng server (Dentro de la carpeta tienda)
